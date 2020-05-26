@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Q2CBfiles/sdlquake2.cbp" />
+		<Project filename="sdlgl/sdlgl.cbp" />
+		<Project filename="Q2CBfiles/Q2Ded/Q2Ded.cbp" />
+		<Project filename="baseq2/Game.cbp" />
+		<Project filename="../dirty1999src/CBgame.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -1,0 +1,64 @@
+================================================================
+Title                   : Macbeth
+Filename                : macbeth.zip
+Author(s)               : Jason Abbott
+Email Address           : jasona@brimstone.com
+Homepage		: http://www.brimstone.com/quake2
+Description             : broken down colosal wall on an alien
+			  angry orange planet.
+Installation		: unzip to: Quake2\baseq2
+
+Additional Credits to   : ID Software for Quake2
+			  The many online style/help pages for
+                              level editing, notably Rust and
+			      the Gamasutra Env map page
+
+================================================================
+* Play Information *
+----------------------------------------------------------------
+
+Software needed to play : Quake2 registered version
+
+Viewing Instructions: At the command line prompt type
+		      "sky woebane/macbeth_"
+
+----------------------------------------------------------------
+* Construction *
+----------------------------------------------------------------
+
+Build Time      : 1 day
+System Used     : K6 233 w/64MB RAM  
+Tools           : Bryce3, Fractal Painter 5, SkyPaintGE
+Date Finished   : Nov 16th, 1998
+
+other skies by the author : the eskoth sky pack (eskoth.zip) and
+			    the rest of the bard sky pack.
+
+Known Bugs      : none
+
+What worked      : 1) subracting mountains from the floor and
+		      then filling with a mist is a nice effect.
+
+What didn't work : 1) a little too much cheetos orange mist, I
+		      think.
+
+----------------------------------------------------------------
+* Legal Stuff *
+----------------------------------------------------------------
+
+You MAY distribute this sky, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. If you intend to use this sky in any way (TC's, Mission 
+Packs, CD's, Freebee's, etc.) please contact me.
+
+You MAY include this environments in any map that you give away.
+
+If you want to do more than just give away the sky, please contact
+me first.
+
+----------------------------------------------------------------
+** Where to get the environments **
+----------------------------------------------------------------
+
+http://www.brimstone.com/quake2/local/env

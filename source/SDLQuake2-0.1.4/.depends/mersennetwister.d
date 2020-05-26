@@ -1,0 +1,1 @@
+./mersennetwister.o: mersennetwister.c

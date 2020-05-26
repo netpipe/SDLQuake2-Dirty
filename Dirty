@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#cd ~/
+./quake2 +set game dirty +exec config.cfg
+#./sdlquake2 +set game dirty +exec config.cfg

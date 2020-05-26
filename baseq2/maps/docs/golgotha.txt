@@ -1,0 +1,56 @@
+
+Action Quake 2 map
+    			
+================================================================
+Title                   : Golgotha City
+Filename                : golgotha.bsp
+Author                  : Nemesis
+Email Address           : patrick3@andrew.cmu.edu
+Description             : Industrial/city map
+
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative 		: No
+Deathmatch 		: Yes
+Teamplay		: Yes
+Number of Players	: Anywhere from 2 to 14
+
+* Construction *
+
+Base            : Built from scratch
+Build Time      : A few hours per day for two months
+Editor(s) used  : Qoole
+Known Bugs      : none
+QBSP3 time	: 2 seconds 
+QVIS3 time	: 9 seconds
+Arghrad time	: 128 seconds
+
+* Level info *
+
+Pretty self- explanatory; I just tried to make a simple map with good ambience, low r-speeds, and balanced gameplay.  I named it "Golgotha City" because most of the textures in the map were originally created by a computer game company called Golgotha (whose internet address is at the very end of this readme).  
+
+* Legal Stuff *
+
+All files included in this zip (.bsp, .tga, .wal, .pcx, and .wav) may not be sold, rented, or otherwise used to make a profit.  This archive may be distributed freely over the internet, provided that it is not altered and that I receive full credit for my creation.
+
+Thanks to: 
+Wally
+Arghrad
+QOOLE
+Paint Shop Pro 5
+The following websites, where I found some of the textures and/or sounds used in this map:
+	www.buzzsaw.gamedesign.net
+	www.contaminated.net/studio
+	www.telefragged.com/soup
+	www.planetunreal.com/forest
+	www.3dpalette.com/graphtallica
+	www.planetquake.com/warehouse
+	www.texturecentral.gamedesign.net
+	www.planethalflife.com/studio 
+	www.freetextures.com
+	www.redchurch.com
+	www.jitit.com/golgotha/textures/Page.html
+	

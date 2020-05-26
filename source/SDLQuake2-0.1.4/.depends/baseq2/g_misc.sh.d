@@ -1,0 +1,1 @@
+baseq2/baseq2/g_misc.sh.sh.o: baseq2/g_misc.c baseq2/g_local.h q_shared.h game.h

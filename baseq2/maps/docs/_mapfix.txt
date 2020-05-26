@@ -1,0 +1,86 @@
+
+  uberSERVER: uberPAK for servers
+
+  =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  Problems with maps when downloaded from AQMD:
+  =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  actcity - this also applies to actcity2 since they share the textures
+          - textures/CRCITY\SKY1.wal missing
+          - textures/CRCITY\CZELSIGN.wal missing
+          - bad path, doesn't work with actcity on *nix systems
+          - must be UPPERCASE to work on *nix systems, fixes actcity2
+          - actcity may be a lost cause for *nix systems, works in Windows
+
+  actdam - sound/barbq/breath.wav is missing
+         - I copied a "silent" WAV to this name (thanks AQMD Forum/GreyDeath!)
+
+  beer - textures/sinner/ceiling3.wal is missing
+       - I copied the texture from the one included in nobeer
+
+  beware - textures/wolf/origin.wal missing
+         - found copy in textures/nemesis, copied it over
+
+  cinema3 - env/black**.tga are missing
+          - they were saved as BMP, I converted them to TGA
+
+  coverme - env/city1**.tga and env/city1**.pcx are missing
+          - see matrix2 below for more information
+
+  dam - sound/wind2x.wav is missing
+      - it was in sound/dam/, copied it to correct location
+
+  foresthighway - textures/g4meah0lic/xddoor3.wal is missing
+                - there's a "xdoor3.wal" in there so I renamed it
+
+  highrise - sound/highrise/fan.wav is missing
+           - sound/highrise/wind.wav is missing
+           - sound/highrise/catapult.wav is missing
+           - sound/highrise/door.wav is missing
+           - sound/highrise/barn.wav is missing
+           - were placed in "sounds", not "sound" so I moved them
+
+  matrix2 - env/CITY1**.tga and env/CITY1**.pcx are missing on *nix systems
+          - coverme uses the same env files
+          - changed "city" to "CITY" to fix
+
+  mesto - sound/garff/heli.wav is missing
+        - I had this file in another AQ2 installation(?), copied it over
+
+  p1_lightbeam - sound/ppp/seagulls.wav missing
+               - in wrong directory, copied into proper directory
+
+  paradise - textures/paradise\movie2.wal not found on *nix systems
+           - textures/paradise\movie3.wal not found on *nix systems
+           - textures/paradise\movie4.wal not found on *nix systems
+           - may be a lost cause on *nix systems, works in Windows
+           - PACMAN, map author, indicates that this cannot be fixed for this map
+
+  storehouse - sound/jamesc/ambi5.wav missing
+             - was placed in "sounds", not "sound" so I moved it
+
+  subtransit2 - textures/mia/xderty.wal missing
+              - textures/mia/yellow.wal missing
+              - provided to me by the map author, the AQMD ZIP is the "wrong one"
+
+  teamjungle - textures/shadow1/kasse1sw_1.wal missing, copied a new one
+             - I had this file in another AQ2 installation(?), looks fine
+
+  urban - urban.bsp missing
+        - included in ZIP but not in action/maps/ so I moved it there
+        - sound/world/mb8.wav missing, renamed included "amb8.wav"
+
+  village - textures/bad/entity.wal missing
+          - I copied a different WAL over, map looks ok (thanks AQMD Forum!)
+
+  winter - deleted unused textures as indicated by PACMAN, map author
+         - textures/winter/dark.wal has been deleted
+         - textures/winter/firewall.wal has been deleted
+         - textures/winter/woodfloor.wal has been deleted
+
+
+  All of the problems have been corrected in this uber map pack.
+  These problems may still exist in the original files from AQMD.
+
+  For more information, visit:  http://aqmd.action-web.net/
+

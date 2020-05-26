@@ -1,0 +1,58 @@
+================================================================
+Title                   : Egyption Dusk
+Filename                : egypt-gdx_.zip
+Author(s)               : GreyDeath
+Email Address           : lniwranski@hotmail.com
+Homepage		: http://gdx.dnsalias.net/skies/
+Description             : Endless sand dunes with golden sunset.
+			Pyramid in the background.
+Installation		: unzip to: Quake2\baseq2
+
+Additional Credits to   : ID Software for Quake2
+			  The many online style/help pages for
+                              level editing, notably Rust and
+			      the Gamasutra Env map page
+
+================================================================
+* Play Information *
+----------------------------------------------------------------
+
+Software needed to play : Quake2 registered version
+
+Viewing Instructions: At the command line prompt type
+		      "sky greydeath/egypt-gdx_"
+
+----------------------------------------------------------------
+* Construction *
+----------------------------------------------------------------
+
+Build Time      : 1 hour
+System Used     : Duron 900 /w 512MB RAM
+Tools           : Bryce5, Paintshop Pro
+Date Finished   : Feb 1st, 2002
+
+other skies by the author :	coastal-gdx_, island-gdx_, island2-gdx_,
+				mount-gdx_, mount2-gdx_, rockies-gdx_, 
+				winter-gdx_
+Known Bugs      : none
+
+----------------------------------------------------------------
+* Legal Stuff *
+----------------------------------------------------------------
+
+You MAY distribute this sky, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. If you intend to use this sky in any way (TC's, Mission 
+Packs, CD's, Freebee's, etc.) please contact me.
+
+You MAY include this environments in any map that you give away.
+
+If you want to do more than just give away the sky, please contact
+me first.
+
+----------------------------------------------------------------
+** Where to get the original collection of environments **
+----------------------------------------------------------------
+
+http://gdx.dnsalias.net/skies/

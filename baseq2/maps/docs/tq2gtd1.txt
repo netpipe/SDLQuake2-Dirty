@@ -1,0 +1,158 @@
+================================================================
+Title                   : Rockheim: Drugwars! (v1.0 final)
+Filename                : tq2gtd1.bsp
+Release Date            : 1999/03/25
+Map Author              : Stefan Giesen (Igor[Rock])
+Email Address           : Stefan.Giesen@gmx.de
+Homepage                : http://www.homepages.de/sgiesen@dialup.nacamar.de/
+Description             : The first official "Get That Drug" Level
+			  for Terror Quake2. It's a big city map
+			  with two headquarters and different ways
+			  to get there. There is a subway connecting the
+			  two bases.
+Requirements            : Quake2, Terror Quake2, enough HD space ;-)
+================================================================
+Additional Credits
+The Wally Team		: Ty Matthews and  Neal White III for that
+			  GREAT texture editor
+The Qoole Team		: For making an editor no one can use right
+			  because of that DAMN rounding bug. I've
+			  just changed because of this bug, so my next 
+			  credit goes to:
+raduffy@cyberramp.net	: for making QERadiant, an editor which REALLY
+			  ROCKS!!!
+Jasc Software		: for making that GREAT graphic program
+			  Paint Shop Pro v5.0
+Rookie[Rock]		: (aka Michael Bastian) for endless
+			  playtesting with me ;-)
+================================================================
+* Play Information *
+Q2 Single Player        : Not intended (only for sightseeing)
+Q2 Cooperative          : No
+Q2 Deathmatch           : Not intended (ammo? which ammo?)
+Q2 CTF                  : Not intended (ammo? which ammo?)
+Single Player (TQ2)	: Not intended
+Deathmatch (TQ2)        : Yes, should be fine
+Get That Drug (TQ2)	: Yes - the map was especially made for
+			  this one :)
+* Construction *
+Base                    : From scratch (own idea)
+Editors used            : Qoole V2.50 (If they only used integer
+                          for their calculations...) - but they didn't,
+			  so I've changed to QERadiant. 
+			  Oh boy, this editor REALLY ROCKS!
+                          Wally V1.24B for the textures
+			  PSP V5.0 as additional editor for textures
+Textures		: All textures are made by me, no standard
+			  textures are used, so there shouldn't be
+			  a problem with copyrights (they're all mine).
+			  Starking is copyright 1999 by Stefan Giesen, TJPC
+			  (If you want to know more about it, go to my
+			   homepage)
+Known Bugs              : hm, it looks like the escalators are a dancing
+			  around a little in an internet-game (you'll see 
+			  what i mean), but it's not so bad that I want 
+			  to disable them ;)
+================================================================
+* COPYRIGHT NOTICES and PERMISSION *
+This level is copyright 1999 by Stefan Giesen.  Permission to use, 
+copy and distribute unedited copies of this files -- [tq2gtd1.bsp and
+the textures at textures/rock] -- is hereby granted, provided that no
+fee is charged for the use or availability of this file (other than 
+the normal connection costs for on-line services, if applicable).
+The above copyright notice and this permission notice must be left 
+intact in all copies of this file. Commercial distribution of this 
+file, in whole or in part, requires prior agreement with the author. 
+Commercial distribution includes any means by which the user is 
+required to pay either for the support (e.g. book, newsletter or 
+CD-ROM) or for the file itself.  Unauthorized commercial distribution 
+is prohibited.
+If you wish to commercially distribute this file, note the following:
+(1)Permission is granted by the author for the one-time commercial
+distribution of this file if all of the following conditions are met:
+(a)The author is notified by email prior to the file's inclusion 
+on any commercial release;
+(b)The author is provided with one (1) "contributor's copy" of
+the finished product upon it's release.  Said "contributor's 
+copy" is to be sent to the author using the shipping address 
+specified by the author in his/her reply to the publisher's 
+initial email notification, and is to be provided at no cost 
+to the author;
+(c)This file (including this copyright notice) is not to be 
+modified in any way, and shall be distributed as the author 
+intended;
+(d)The author retains all relevant and proper copyrights to this 
+work both prior to and subsequent to the commercial release of 
+this file.
+(2)By requesting a shipping address from the author, the publisher
+signifies acceptance of, and agrees to abide by, these conditions.
+By returning a valid shipping address to the publisher, the author
+thereby grants the publisher one-time usage of the author's 
+copyrighted work for commercial purposes.
+Thank you for your interest in this work.
+================================================================
+Note on new textures
+If someone want's to use my self-made textures, he must contact
+me to get my permission! Normally I will give you this permission,
+as long as you're not using them for a commercial project (then
+we have to see how we do it).
+================================================================
+Compile time and such stuff :-)
+(My system: Pentium 200 MHz without MMX, 72 MB RAM)
+D:\Spiele\quake2\terror\maps>gddqbsp3 tq2gtd1
+----------- qbsp3 -----------
+original code by id Software
+Modified by Geoffrey DeWan
+Revision 1.04
+Compiled for Pentium processors
+-----------------------------
+gamedir set to D:\Spiele\quake2\terror\
+entering D:\Spiele\quake2\terror\maps\tq2gtd1.map
+0...1...2...3...4...5...6...7...8...9... (14)
+0...1...2...3...4...5...6...7...8...9... (12)
+writing D:\Spiele\quake2\terror\maps\tq2gtd1.prt
+Writing D:\Spiele\quake2\terror\maps\tq2gtd1.bsp
+   78 seconds elapsed
+
+D:\Spiele\quake2\terror\maps>gddqvis3 tq2gtd1
+----------- qvis3 -----------
+original code by id Software
+Modified by Geoffrey DeWan
+Revision 1.01
+Compiled for Pentium processors
+-----------------------------
+reading D:\Spiele\quake2\terror\maps\tq2gtd1.bsp
+reading D:\Spiele\quake2\terror\maps\tq2gtd1.prt
+ 945 portalclusters
+2250 numportals
+0...1...2...3...4...5...6...7...8...9... (31)
+0...1...2...3...4...5...6...7...8...9... (285)
+Average clusters visible: 88
+Building PHS...
+Average clusters hearable: 292
+visdatasize:104171  compressed from 226800
+writing D:\Spiele\quake2\terror\maps\tq2gtd1.bsp
+319.0 seconds elapsed
+
+D:\Spiele\quake2\terror\maps>arghrad -nocurve -gamedir ..\..\baseq2 tq2gtd1
+----- ArghRad 2.00 by Tim Wright (Argh!) -----
+Modified from original source code by id Software
+
+----- Settings -----
+ -nocurve enabled  (phong shading disabled)
+ -gamedir set to ..\..\baseq2\  (game pak dir)
+----- Load BSP File -----
+reading D:\Spiele\quake2\terror\maps\tq2gtd1.bsp
+----- Light World -----
+0...1...2...3...4...5...6...7...8...9... (1337)
+0...1...2...3...4...5...6...7...8...9... (2897)
+0...1...2...3...4...5...6...7...8...9... (78)
+----- Save BSP File -----
+writing D:\Spiele\quake2\terror\maps\tq2gtd1.bsp
+----- Time -----
+ 6507 seconds elapsed
+================================================================
+FLW:
+Hm, wonder what this button does? -- BOOOM! --
+
+Watch out for new levels to come from me!

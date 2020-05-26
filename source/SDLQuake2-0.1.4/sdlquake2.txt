@@ -1,0 +1,19 @@
+SDLQuake2 0.1
+
+Based on R1Q2 b5510, R1GL 0.1.5.25 (http://www.r1ch.net/stuff/r1q2/)
+and Quake2Forge 0.3.1CVS (www.quakeforge.net)
+
+Basically this is a combination of R1Q2 and R1GL with
+SDL code from Quake2Forge. Meaning it's R1Q2 protocol 35 compatible
+Linux client. Tested on Debian Sarge. Both client and dedicated server.
+
+I'm not sure what I'm going to do with the project but there will be
+R1Q2 compatible future releases. This release is very close to vanilla
+R1Q2 to make it easier to port future releases.
+
+Requires libSDL, libjpeg and libpng.
+
+Requires OpenGL, tested with NVidia.
+
+Thanks to ID Software, R1CH and the QuakeForge team for their
+outstanding work.

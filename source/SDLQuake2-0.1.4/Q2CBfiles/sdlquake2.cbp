@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sdlquake2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../../../quake2" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../../../" />
+				<Option object_output="../obj/Debug" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="../../../quake2" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../../../" />
+				<Option object_output="../obj/Release" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../" />
+		</Compiler>
+		<Linker>
+			<Add library="openal" />
+			<Add library="SDL" />
+			<Add library="z" />
+			<Add library="dl" />
+			<Add library="m" />
+		</Linker>
+		<Unit filename="../cl_ents.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cl_fx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cl_input.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cl_inv.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cl_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cl_newfx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cl_parse.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cl_pred.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cl_scrn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cl_tent.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cl_view.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../client.h" />
+		<Unit filename="../cmd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cmodel.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../common.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../console.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../console.h" />
+		<Unit filename="../crc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../crc.h" />
+		<Unit filename="../cvar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../files.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../glob.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../glob.h" />
+		<Unit filename="../keys.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../keys.h" />
+		<Unit filename="../le_physics.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../le_util.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../m_flash.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../md4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../md4.h" />
+		<Unit filename="../menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../mersennetwister.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../net_chan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../net_udp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../pmove.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../q_shared.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../q_shared.h" />
+		<Unit filename="../q_shlinux.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../qmenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../qmenu.h" />
+		<Unit filename="../redblack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../redblack.h" />
+		<Unit filename="../snd_dma.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../snd_mem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../snd_mix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../snd_openal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../snd_openal.h" />
+		<Unit filename="../snd_sdl.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_ccmds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_ents.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_init.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_send.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_user.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_world.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sys_linux.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../vid_menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../vid_so.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

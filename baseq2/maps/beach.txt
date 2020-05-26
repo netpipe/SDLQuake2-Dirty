@@ -1,0 +1,81 @@
+=============================================================================
+* General Info *
+
+Title                   : Abandoned beach resort
+
+Archive                 : beach.zip
+
+Release Date (DD/MM/YY) : 17/10/05
+
+Build			: 1.05
+
+Author                  : Carl-Magnus Björkell (aka NRGizeR)
+Email Address           : carl-magnus.bjorkell@pp.inet.fi
+
+Description             : Map for Action Quake (http://aq2.action-web.net).
+			
+			  The map is an old and abandoned beach resort that doesn't
+			  really appeal to tourists anymore, and has therefore been over-
+			  taken by light industry. Feel free to take a dip in the water, 
+			  but don't forget to be on the lookout for bad guys.
+
+Installation            : Unzip beach.zip into the root of your Action Quake
+                          game folder (Quake2/action), with subdirectories
+                          enabled (!)
+                                                    
+Additional Credits to   : peep for some textures
+			  WizardExt for some textures
+			  Shadowfire for some textures
+			  Others for textures as well (don't know them all)
+			  Perditus, Messiah, Delta, pauhi for input and/or ideas
+			  The whole of > F < for playtesting.
+			  www.aq2world.com and their forum visitors!
+			  Argh! for ArghRad
+			  Geoffrey DeWan for his improved compiling tools
+                          Rust (www.gamedesign.net) for the great tutorials
+                          A-Team for making the greatest Quake2 mod ever.
+                          id Software for Quake 2.
+
+
+=============================================================================
+* Play Info *
+
+Game                      : Action Quake (Quake2)
+Single player             : Yes (only for looking around)
+Teamplay                  : Yes
+Deathmatch 		  : Yes
+Suggested Player Load	  : 2-14 (8 spawnpoints)
+
+New Graphics              : Yes
+New Music                 : Yes
+New Sounds                : Yes
+New Sky			  : No
+DLL                       : No
+Locations File		  : Yes
+
+* Construction Info *
+
+Base                      : New level from scratch
+Build time                : 2-3 weeks
+Compile Machine           : AMD Athlon XP 2100+ @ 2700+
+    QBSP3 Time            : 4 seconds
+    QVIS3 Time            : 1238 seconds
+    ARGHRAD (-extra) Time : 4513 seconds
+
+Editors Used		  : GtkRadiant, ArghRad, Geoffrey DeWan's QBSP3 and QVIS3, gimp
+			    wine (for compiling the map in linux)
+
+Known Bugs                : A small lighting bug that I couldn't fix :/
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels. 
+
+All textures and sounds not made by me are the property of their 
+respective owner. You may distribute the archive beach.zip in 
+whatever way you see fit as long as the archive remains intact and 
+is distributed freely. It is strictly prohibited to distribute any
+of the files made by me in this archive commercially!
+
+Enjoy.

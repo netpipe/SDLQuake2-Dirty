@@ -1,0 +1,58 @@
+================================================================
+Title                   : Morning in the Forest
+Filename                : morning_forest_gdx_.zip
+Author(s)               : GreyDeath
+Email Address           : greydeath@gta.igs.net
+Homepage		: http://gdx.dnsalias.net/skies/
+Description             : It is morning in the forest.
+			  The mist is slowly lifting.
+Installation		: unzip to: Quake2\baseq2
+
+Additional Credits to   : ID Software for Quake2
+
+================================================================
+* Play Information *
+----------------------------------------------------------------
+
+Software needed to play : Quake2 registered version
+
+Viewing Instructions: At the command line prompt type
+		      "sky greydeath/morning_forest_gdx_"
+
+----------------------------------------------------------------
+* Construction *
+----------------------------------------------------------------
+
+Build Time      : 1 day layout - 7 day render
+System Used     : Duron 900 /w 512MB RAM
+		  Athlon XP 1700+ /w 512MB RAM
+Tools           : Vue d'Esprit 4.12, Adobe Photoshop 7.0
+Date Finished   : Jan 3rd, 2004
+
+other skies by the author :	coastal-gdx_, island-gdx_, island2-gdx_,
+				mount-gdx_, mount2-gdx_, rockies-gdx_, 
+				winter-gdx_, egypt_gdx_
+Known Bugs      : colour and contrast doesn't match up along the seems
+		  of the up image.  It's a minor annoyance more than
+		  anything.
+
+----------------------------------------------------------------
+* Legal Stuff *
+----------------------------------------------------------------
+
+You MAY distribute this sky, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. If you intend to use this sky in any way (TC's, Mission 
+Packs, CD's, Freebee's, etc.) please contact me.
+
+You MAY include this environments in any map that you give away.
+
+If you want to do more than just give away the sky, please contact
+me first.
+
+----------------------------------------------------------------
+** Where to get the original collection of environments **
+----------------------------------------------------------------
+
+http://gdx.dnsalias.net/skies/

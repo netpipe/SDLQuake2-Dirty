@@ -1,0 +1,148 @@
+================================================================
+Title                   : Rockheim City: High Noon (final release)
+Filename                : rhcity2.bsp
+Release Date            : 1999/06/03
+Map Author              : Stefan Giesen (Igor[Rock])
+Email Address           : Stefan.Giesen@gmx.de
+Homepage                : http://www.homepages.de/sgiesen@dialup.nacamar.de/
+Description             : This one is a teamplay map for Terror Quake2.
+			  It's a city map with a sewer. This map is build
+			  on rhcity1.bsp, but with MANY changes. This Map
+			  also fits for AQ2 DM and Teamplay (just don't care
+			  about the "xxx has no spawn function" errors, they
+			  just don't matter :).
+Requirements            : Quake2, Terror Quake2 or Action Quake2
+================================================================
+Additional Credits
+The Wally Team		: Ty Matthews and  Neal White III for that
+			  GREAT texture editor
+raduffy@cyberramp.net	: for making QERadiant, an editor which REALLY
+			  ROCKS!!!
+Jasc Software		: for making that GREAT graphic program
+			  Paint Shop Pro v5.0
+Rookie[Rock]		: (aka Michael Bastian) for endless
+			  playtesting with me ;-)
+================================================================
+* Play Information *
+Q2 Single Player        : Not intended (only for sightseeing)
+Q2 Cooperative          : No
+Q2 Deathmatch           : Not intended
+Q2 CTF                  : Not intended
+Single Player (TQ2)	: Not intended (sightseeing?)
+Deathmatch (TQ2/AQ2)    : Yes, should be fine
+Teamplay (TQ2/AQ2)	: Yep, that's it :-)
+Get That Drug (TQ2)	: No - this map isn't made for GTD.
+* Construction *
+Base                    : From scratch (own idea)
+Editors used            : QERadiant. the best editor for hard workers.
+			  Oh boy, this editor REALLY ROCKS!
+                          Wally V1.24B for the textures
+			  PSP V5.0 as additional editor for textures
+Textures		: All textures are made by me, only standard
+			  textures from Q2 are used in addition,
+			  so there shouldn't be a problem with 
+			  copyrights (they're all mine or id :)
+Known Bugs              : No one I know...
+================================================================
+* COPYRIGHT NOTICES and PERMISSION *
+This level is copyright 1999 by Stefan Giesen.  Permission to use, 
+copy and distribute unedited copies of this files -- [tq2gtd1.bsp and
+the textures at textures/rock] -- is hereby granted, provided that no
+fee is charged for the use or availability of this file (other than 
+the normal connection costs for on-line services, if applicable).
+The above copyright notice and this permission notice must be left 
+intact in all copies of this file. Commercial distribution of this 
+file, in whole or in part, requires prior agreement with the author. 
+Commercial distribution includes any means by which the user is 
+required to pay either for the support (e.g. book, newsletter or 
+CD-ROM) or for the file itself.  Unauthorized commercial distribution 
+is prohibited.
+If you wish to commercially distribute this file, note the following:
+(1)Permission is granted by the author for the one-time commercial
+distribution of this file if all of the following conditions are met:
+(a)The author is notified by email prior to the file's inclusion 
+on any commercial release;
+(b)The author is provided with one (1) "contributor's copy" of
+the finished product upon it's release.  Said "contributor's 
+copy" is to be sent to the author using the shipping address 
+specified by the author in his/her reply to the publisher's 
+initial email notification, and is to be provided at no cost 
+to the author;
+(c)This file (including this copyright notice) is not to be 
+modified in any way, and shall be distributed as the author 
+intended;
+(d)The author retains all relevant and proper copyrights to this 
+work both prior to and subsequent to the commercial release of 
+this file.
+(2)By requesting a shipping address from the author, the publisher
+signifies acceptance of, and agrees to abide by, these conditions.
+By returning a valid shipping address to the publisher, the author
+thereby grants the publisher one-time usage of the author's 
+copyrighted work for commercial purposes.
+Thank you for your interest in this work.
+================================================================
+Note on new textures
+If someone want's to use my self-made textures, he must contact
+me to get my permission! Normally I will give you this permission,
+as long as you're not using them for a commercial project (then
+we have to see how we do it).
+================================================================
+Compile time and such stuff :-)
+(My system: Pentium 200 MHz without MMX, 96 MB RAM)
+D:\Spiele\quake2\terror\maps>gddqbsp3 rhcity2
+----------- qbsp3 -----------
+original code by id Software
+Modified by Geoffrey DeWan
+Revision 1.04
+Compiled for Pentium processors
+-----------------------------
+gamedir set to D:\Spiele\quake2\terror\
+entering D:\Spiele\quake2\terror\maps\rhcity2.map
+0...1...2...3...4...5...6...7...8... (8)
+0...1...2...3...4...5...6...7...8... (7)
+writing D:\Spiele\quake2\terror\maps\rhcity2.prt
+Writing D:\Spiele\quake2\terror\maps\rhcity2.bsp
+   31 seconds elapsed
+
+D:\Spiele\quake2\terror\maps>gddqvis3 rhcity2
+----------- qvis3 -----------
+original code by id Software
+Modified by Geoffrey DeWan
+Revision 1.01
+Compiled for Pentium processors
+-----------------------------
+reading D:\Spiele\quake2\terror\maps\rhcity2.bsp
+reading D:\Spiele\quake2\terror\maps\rhcity2.prt
+ 554 portalclusters
+1620 numportals
+0...1...2...3...4...5...6...7...8...9... (22)
+0...1...2...3...4...5...6...7...8...9... (1444)
+Average clusters visible: 137
+Building PHS...
+Average clusters hearable: 344
+visdatasize:62622  compressed from 79776
+writing D:\Spiele\quake2\terror\maps\rhcity2.bsp
+1468.0 seconds elapsed
+
+D:\Spiele\quake2\terror\maps>arghrad -gamedir d:\spiele\quake2\baseq2 -moddir .. rhcity2
+----- ArghRad 2.00 by Tim Wright (Argh!) -----
+Modified from original source code by id Software
+
+----- Settings -----
+ -gamedir set to d:\spiele\quake2\baseq2\  (game pak dir)
+ -moddir set to ..\  (mod pak dir)
+----- Load BSP File -----
+reading D:\Spiele\quake2\terror\maps\rhcity2.bsp
+----- Light World -----
+0...1...2...3...4...5...6...7...8...9... (455)
+0...1...2...3...4...5...6...7...8...9... (1029)
+0...1...2...3...4...5...6...7...8...9... (24)
+----- Save BSP File -----
+writing D:\Spiele\quake2\terror\maps\rhcity2.bsp
+----- Time -----
+ 1823 seconds elapsed
+================================================================
+FLW:
+Nonsense, no one would place a self destruct button in an elevator...
+
+Watch out for new levels to come from me!

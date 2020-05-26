@@ -1,0 +1,1506 @@
+
+  =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  uberSERVER: uberPAK for servers
+  =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  All the Official Action Quake 2 maps as of 7/30/2000.  These were 
+  all gathered from the Action Quake Map Depot.  There are 181 maps 
+  total.  You can check for more at:  http://aqmd.action-web.net/
+
+  This package is specifically designed for AQ2 server installations.
+  If you plan to use these maps as a client, i.e. just a player, then
+  please get uberPAK as it is far better suited to that purpose and 
+  saves about 25 MB of space over this server package.
+
+
+  This map listing is split into 2 sections.  
+
+  Section 1: Map list
+
+  The first section has only the map names, you can cut and 
+  paste from this list to make a server map rotation, for example.
+  Or perhaps just print out the list and have it as a reference 
+  for what the actual map names are.  
+
+  Section 2: Map information
+
+  The second section has the map filename, title, author, size,  
+  release date, and number of players the map was designed for.  
+  All this information is from the Action Quake Map Depot.  
+  Please go there for more information, reviews, tutorials, and 
+  lots of kickass map-related information!  http://aqmd.action-web.net/
+
+
+
+
+  Section 1: Map list
+
+
+187city
+2040rb
+666mines
+actcity
+actcity2
+actcity3
+actdam
+actone
+aggression
+air747
+airliner
+airport
+alcatraz
+alley1
+alley2
+apbase
+aqnitro
+arcadia
+asylum
+avenue1
+base01
+base02
+bases2
+basev28
+beachassault
+beer
+beware
+bldg17
+blockwar
+blood
+bodyshop
+border
+brickyard
+bronx
+bxtrain2
+bxw7
+c)city2a
+campblud
+cdoom
+chriscity3
+church1
+cinema
+cinema3
+citadel5
+city
+citygate
+civilwar
+cliff
+cliff2
+cloud
+colt
+complex
+countdown
+cov092
+coverme
+cracked
+ctbcity
+cucu40a
+dam
+deepcanyon
+desert
+dethshp2
+dock
+downtown
+dream
+drydam
+etemple
+ffrontal
+foresthighway
+fortbianco
+fortcave
+garden
+ghetto
+golgotha
+gorge2
+harbour1
+highrise
+highrise2
+hostage2
+hostile
+hwy666
+jdcs
+jungle1
+kaq2
+kgb2
+kumanru
+lavatube
+lighthouse
+lnl2
+lnl3
+locknload
+longfall
+loveboat
+lumber
+mall2
+market
+matrix2
+mesto
+metro_1
+metropol
+mgibcity
+midtown
+midtownx
+mildepot
+monastery
+motel
+murder
+museum
+mxcity
+mxdowntown
+mxmines
+nakatomi
+neighborhood
+night_r
+nobeer
+office3
+omd_map1
+p1_lightbeam
+pagoda
+paradise
+parkgarage
+passin
+pc
+pier
+pier2
+police
+prison76
+punwar
+quittin
+rexro
+rhcity1
+rhcity2
+rhcity3
+rhstation
+riot2
+riotx
+river
+ruins
+ruins2
+ruins3
+saddam
+seavill
+seweratz
+skyplay
+skytower
+sludge1
+slumcity
+snakesmap
+soho
+soviet
+storehouse
+submarine
+subtransit
+subtransit2
+subway
+subway2
+subway99
+teacher
+teamdepo
+teamjungle
+temple
+temple2
+tension1
+tequila
+theist
+tokyo
+toxin
+tq2gtd1
+trains
+urban
+urban2
+urban3
+urban4
+vertigo
+village
+village2
+ware
+warehouse
+wargroun
+winter
+xmas
+
+
+
+  Section 2: Map information
+
+  All this information is from the Action Quake Map Depot.  
+  Please go there for more information, reviews, tutorials, and 
+  lots of kickass map-related information!  http://aqmd.action-web.net/
+
+
+Map: 187city.bsp
+Title: 187 City
+Author: Qru
+Size: 412KB
+Release Date: 01/24/2000
+No. Players: 2 - 14 
+
+Map: 2040rb.bsp
+Title: 2040 R E B I R T H
+Author: the_HUNTER
+Size: 3,260KB
+Release Date: 01/12/2000
+No. Players: 8 - 16 
+
+Map: 666mines.bsp
+Title: Route 666: The Lava Mine
+Author: Ben Lyons
+Size: 2,232KB
+Release Date: 12/13/1999
+No. Players: 2 - 18 
+
+Map: actcity.bsp
+Title: Action City
+Author: CryptR
+Size: 745KB
+Release Date: 03/04/1999
+No. Players: 6 - 12 
+
+Map: actcity2.bsp
+Title: Action City 2
+Author: CryptR
+Size: 792KB
+Release Date: 03/04/1999
+No. Players: 2 - 8 
+
+Map: actcity3.bsp
+Title: Action City 3
+Author: CryptR
+Size: 971KB
+Release Date: 03/04/1999
+No. Players: 6 - 20 
+
+Map: actdam.bsp
+Title: Action Dam
+Author: Bar-B-Q
+Size: 858KB
+Release Date: 06/18/1999
+No. Players: 6 - 20 
+
+Map: actone.bsp
+Title: Action Map 1
+Author: Knox
+Size: 858KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: aggression.bsp
+Title: Aggression
+Author: KaRRiLLioN
+Size: 1,330KB
+Release Date: 07/13/1999
+No. Players: 2 - 20 
+
+Map: air747.bsp
+Title: Boeing 747
+Author: P.O.W.
+Size: 1,375KB
+Release Date: 09/08/1999
+No. Players: 2 - 20 
+
+Map: airliner.bsp
+Title: Airliner : Hijack
+Author: TIGEReye{PaGaN}
+Size: 2,887KB
+Release Date: 06/02/2000
+No. Players: 2 - 20 
+
+Map: airport.bsp
+Title: Airport
+Author: Schmung
+Size: 773KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: alcatraz.bsp
+Title: Alcatraz
+Author: Nemesis
+Size: 444KB
+Release Date: 02/07/1998
+No. Players: 2 - 20 
+
+Map: alley1.bsp
+Title: Alley 1
+Author: Jesper Myrfors
+Size: 3,257KB
+Release Date: 09/17/1999
+No. Players: 2 - 20 
+
+Map: alley2.bsp
+Title: Alley 2
+Author: Jesper Myrfors
+Size: 3,282KB
+Release Date: 09/17/1999
+No. Players: 2 - 20 
+
+Map: apbase.bsp
+Title: Austin Quake: Doctor Evil's Base
+Author: Chris Polan
+Size: 1,200KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: aqnitro.bsp
+Title: Action Nitro City
+Author: Dave Munroe
+Size: 345KB
+Release Date: 03/04/1999
+No. Players: 2 - 6 
+
+Map: arcadia.bsp
+Title: The Lost City of Arcadia
+Author: Aetherum
+Size: 1,170KB
+Release Date: 08/07/1999
+No. Players: 2 - 20 
+
+Map: asylum.bsp
+Title: Quakeham Asylum
+Author: Holy Goat
+Size: 970KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: avenue1.bsp
+Title: Death Avenue - The Home of Above Intelligence
+Author: T.T.I.
+Size: 2,000KB
+Release Date: 03/04/1999
+No. Players: 2 - 10 
+
+Map: base01.bsp
+Title: The Hangar
+Author: Bjoern Drabeck
+Size: 961KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: base02.bsp
+Title: Training Camp
+Author: Bjoern Drabeck
+Size: 961KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: bases2.bsp
+Title: The Terrorist Bases
+Author: DeRtY[MiA]
+Size: 648KB
+Release Date: 12/19/1999
+No. Players: 2 - 10 
+
+Map: basev28.bsp
+Title: Base v28
+Author: Talon
+Size: 475KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: beachassault.bsp
+Title: Beach Assault
+Author: Phat Al
+Size: 2,000KB
+Release Date: 03/28/1999
+No. Players: 2 - 20 
+
+Map: beer.bsp
+Title: The Pub with Beer
+Author: WetWired
+Size: 1,821KB
+Release Date: 12/13/1999
+No. Players: 2 - 16 
+
+Map: beware.bsp
+Title: Beware the Pack
+Author: WOLF[BiA]
+Size: 901KB
+Release Date: 08/07/1999
+No. Players: 2 - 20 
+
+Map: bldg17.bsp
+Title: Building 17
+Author: Creepy
+Size: 433KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: blockwar.bsp
+Title: Block War
+Author: Hondo
+Size: 1,600KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: blood.bsp
+Title: Blood in the Streets
+Author: Goose
+Size: 855KB
+Release Date: 03/04/1999
+No. Players: 4 - 12 
+
+Map: bodyshop.bsp
+Title: Body Shop
+Author: Mr White
+Size: 572KB
+Release Date: 01/24/2000
+No. Players: 4 - 8 
+
+Map: border.bsp
+Title: On The Border
+Author: Brent "WetWired" Waller
+Size: 2,056KB
+Release Date: 06/24/2000
+No. Players: 2 - 16 
+
+Map: brickyard.bsp
+Title: Brickyard Rumble
+Author: KaRRiLLioN
+Size: 1,469KB
+Release Date: 09/25/1999
+No. Players: 2 - 20 
+
+Map: bronx.bsp
+Title: Rumble in the Bronx
+Author: AnthraX
+Size: 2,115KB
+Release Date: 08/17/1999
+No. Players: 2 - 20 
+
+Map: bxtrain2.bsp
+Title: Terror on the Tracks
+Author: BunnyX
+Size: 500KB
+Release Date: 03/04/1999
+No. Players: 2 - 8 
+
+Map: bxw7.bsp
+Title: Warehouse 7
+Author: BunnyX
+Size: 341KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: c)city2a.bsp
+Title: Drunken Stupor
+Author: -BYD-EdiT
+Size: 1,071KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: campblud.bsp
+Title: Camp Blood
+Author: Jesper Myrfors
+Size: 2,200KB
+Release Date: 05/13/1999
+No. Players: 2 - 20 
+
+Map: cdoom.bsp
+Title: Church of Doom
+Author: Steve Towle
+Size: 522KB
+Release Date: 03/04/1999
+No. Players: 2 - 8 
+
+Map: chriscity3.bsp
+Title: Forsaken City
+Author: GOD Incarnate
+Size: 1,020KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: church1.bsp
+Title: The Church
+Author: Harlequin
+Size: 658KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: cinema.bsp
+Title: Cinema
+Author: Holy Goat
+Size: 701KB
+Release Date: 03/04/1999
+No. Players: 2 - 12 
+
+Map: cinema3.bsp
+Title: Action Quake goes to the movies
+Author: David Harrison
+Size: 348KB
+Release Date: 03/22/1999
+No. Players: 2 - 16 
+
+Map: citadel5.bsp
+Title: The Citadel
+Author: Andy 'Buzza' Bee
+Size: 300KB
+Release Date: 03/24/1999
+No. Players: 2 - 20 
+
+Map: city.bsp
+Title: The City
+Author: Ruskprick
+Size: 2,000KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: citygate.bsp
+Title: The Citygate
+Author: ^KWSN^Spawn
+Size: 560KB
+Release Date: 01/24/2000
+No. Players: 2 - 10 
+
+Map: civilwar.bsp
+Title: Civil War
+Author: Hammer
+Size: 1,560KB
+Release Date: 07/08/1999
+No. Players: 2 - 20 
+
+Map: cliff.bsp
+Title: Cliff
+Author: Ace 12GA
+Size: 182KB
+Release Date: 03/04/1999
+No. Players: 2 - 16 
+
+Map: cliff2.bsp
+Title: Cliff 2
+Author: Ace 12GA
+Size: 879KB
+Release Date: 03/04/1999
+No. Players: 2 - 18 
+
+Map: cloud.bsp
+Title: Cloud City
+Author: MaXy
+Size: 962KB
+Release Date: 08/07/1999
+No. Players: 2 - 20 
+
+Map: colt.bsp
+Title: Evil Colt Compound
+Author: Matt Phillips
+Size: 1,700KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: complex.bsp
+Title: The Complex
+Author: Gr3ed
+Size: 791KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: countdown.bsp
+Title: Nuclear Countdown
+Author: Shadowfire
+Size: 2,555KB
+Release Date: 12/13/1999
+No. Players: 2 - 20 
+
+Map: cov092.bsp
+Title: Coventry Yard
+Author: Teeq
+Size: 1,300KB
+Release Date: 03/04/1999
+No. Players: 6 - 12 
+
+Map: coverme.bsp
+Title: Cover Me
+Author: Sir Caliber
+Size: 1,515KB
+Release Date: 12/28/1999
+No. Players: 4 - 16 
+
+Map: cracked.bsp
+Title: Crack Down
+Author: Wanderer
+Size: 1,300KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: ctbcity.bsp
+Title: CTB City
+Author: Ruskprick
+Size: 830KB
+Release Date: 05/08/1999
+No. Players: 2 - 20 
+
+Map: cucu40a.bsp
+Title: CUCU40a
+Author: [iQ]GarFF and [iQ]Webz
+Size: 1,380KB
+Release Date: 07/22/1999
+No. Players: 2 - 20 
+
+Map: dam.bsp
+Title: The Dam
+Author: Castrator
+Size: 1,720KB
+Release Date: 08/07/1999
+No. Players: 2 - 20 
+
+Map: deepcanyon.bsp
+Title: Deep Canyon
+Author: Shaymon
+Size: 720KB
+Release Date: 04/29/1999
+No. Players: 2 - 20 
+
+Map: desert.bsp
+Title: Desert Bases
+Author: Creepy
+Size: 373KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: dethshp2.bsp
+Title: Ship of Death
+Author: Skull 'N' Bones
+Size: 567KB
+Release Date: 03/04/1999
+No. Players: 2 - 8 
+
+Map: dock.bsp
+Title: The Dock Yard
+Author: KaRRiLLioN
+Size: 1,460KB
+Release Date: 07/08/1999
+No. Players: 2 - 20 
+
+Map: downtown.bsp
+Title: Downtown
+Author: Cougar
+Size: 1,118KB
+Release Date: 03/22/1999
+No. Players: 2 - 20 
+
+Map: dream.bsp
+Title: GruuVe'z DreamLANd
+Author: GruuVe
+Size: 475KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: drydam.bsp
+Title: The Dry Dam
+Author: Mattias Andersson
+Size: 1,144KB
+Release Date: 03/27/1999
+No. Players: 2 - 20 
+
+Map: etemple.bsp
+Title: Egyptian Temple
+Author: GreyDeath
+Size: 4,025KB
+Release Date: 03/07/2000
+No. Players: 2 - 20 
+
+Map: ffrontal.bsp
+Title: Full Frontal Assault
+Author: Buzza
+Size: 195KB
+Release Date: 03/23/1999
+No. Players: 2 - 20 
+
+Map: foresthighway.bsp
+Title: Highway Though the Forest
+Author: Slave Zero
+Size: 2,363KB
+Release Date: 12/13/1999
+No. Players: 2 - 18 
+
+Map: fortbianco.bsp
+Title: Fort El Bianco
+Author: El Bianco
+Size: 388KB
+Release Date: 01/11/2000
+No. Players: 4 - 8 
+
+Map: fortcave.bsp
+Title: Forts and Caves
+Author: John Gilbertson, AKA [CHAOS]Homicide
+Size: 1,289KB
+Release Date: 06/23/1999
+No. Players: 6 - 16 
+
+Map: garden.bsp
+Title: The Garden of Gethsemane
+Author: Jesus
+Size: 1,300KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: ghetto.bsp
+Title: Ghetto
+Author: Owen Coughlan
+Size: 721KB
+Release Date: 03/04/1999
+No. Players: 2 - 10 
+
+Map: golgotha.bsp
+Title: Golgotha City
+Author: Nemesis
+Size: 2,037KB
+Release Date: 09/08/1999
+No. Players: 2 - 20 
+
+Map: gorge2.bsp
+Title: The Gorge At Sunset
+Author: GoGGorilla
+Size: 1,003KB
+Release Date: 01/26/2000
+No. Players: 2 - 10 
+
+Map: harbour1.bsp
+Title: The Frag Harbour
+Author: Blownup
+Size: 590KB
+Release Date: 07/08/1999
+No. Players: 2 - 20 
+
+Map: highrise.bsp
+Title: Highrise
+Author: KaRRiLLioN
+Size: 1,432KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: highrise2.bsp
+Title: Highrise2
+Author: KaRRiLLioN
+Size: 2,600KB
+Release Date: 04/23/1999
+No. Players: 2 - 20 
+
+Map: hostage2.bsp
+Title: Hostage2
+Author: Skull 'N' Bones
+Size: 297KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: hostile.bsp
+Title: Hostile Takeover
+Author: Cap'n Sparky
+Size: 1,200KB
+Release Date: 03/04/1999
+No. Players: 2 - 8 
+
+Map: hwy666.bsp
+Title: highway 666
+Author: Jesper Myrfors
+Size: 3,876KB
+Release Date: 09/16/1999
+No. Players: 2 - 20 
+
+Map: jdcs.bsp
+Title: Fraggin in the CJD
+Author: [FA]Joka
+Size: 1,588KB
+Release Date: 02/25/2000
+No. Players: 8 - 16 
+
+Map: jungle1.bsp
+Title: Welcome to the Jungle
+Author: t1mm
+Size: 300KB
+Release Date: 03/08/1999
+No. Players: 2 - 8 
+
+Map: kaq2.bsp
+Title: Kaq2 - Industrial mine
+Author: Phillip Basil-jones (Killazontherun)
+Size: 1,961KB
+Release Date: 04/04/2000
+No. Players: 2 - 16 
+
+Map: kgb2.bsp
+Title: KGB Training Grounds
+Author: Wanderer
+Size: 1,130KB
+Release Date: 03/04/1999
+No. Players: 2 - 16 
+
+Map: kumanru.bsp
+Title: Alter of Kumanru
+Author: Shmitz
+Size: 510KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: lavatube.bsp
+Title: Lavatube
+Author: gimp
+Size: 3,710KB
+Release Date: 07/13/1999
+No. Players: 2 - 20 
+
+Map: lighthouse.bsp
+Title: Under the Lighthouse
+Author: God Incarnate
+Size: 1,030KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: lnl2.bsp
+Title: LNL2 - Back In the Habit
+Author: the_HUNTER
+Size: 1,300KB
+Release Date: 06/18/1999
+No. Players: 2 - 8 
+
+Map: lnl3.bsp
+Title: LNL3 - Live'n it up!
+Author: the_HUNTER
+Size: 1,300KB
+Release Date: 06/18/1999
+No. Players: 2 - 8 
+
+Map: locknload.bsp
+Title: Lock 'n Load
+Author: the_HUNTER
+Size: 1,300KB
+Release Date: 03/04/1999
+No. Players: 6 - 12 
+
+Map: longfall.bsp
+Title: Operation Longfall
+Author: KB
+Size: 633KB
+Release Date: 09/08/1999
+No. Players: 2 - 20 
+
+Map: loveboat.bsp
+Title: Loveboat
+Author: Squirrel
+Size: 1,740KB
+Release Date: 08/03/1999
+No. Players: 2 - 20 
+
+Map: lumber.bsp
+Title: The Lumber Yard
+Author: WetWired
+Size: 1,999KB
+Release Date: 04/13/2000
+No. Players: 2 - 16 
+
+Map: mall2.bsp
+Title: Mall 2
+Author: Ace 12GA
+Size: 996KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: market.bsp
+Title: The Market Square
+Author: [tBd] NRGizeR
+Size: 2,947KB
+Release Date: 12/13/1999
+No. Players: 2 - 20 
+
+Map: matrix2.bsp
+Title: What is the Matrix?
+Author: WetWired
+Size: 1,534KB
+Release Date: 01/28/2000
+No. Players: 2 - 16 
+
+Map: mesto.bsp
+Title: Rooftop Madness
+Author: Wez and GarFF
+Size: 1,500KB
+Release Date: 06/09/1999
+No. Players: 2 - 10 
+
+Map: metro_1.bsp
+Title: The Metro
+Author: Owen Coughlan
+Size: 862KB
+Release Date: 07/22/1999
+No. Players: 2 - 12 
+
+Map: metropol.bsp
+Title: Metropol
+Author: Qru & Xory
+Size: 1,069KB
+Release Date: 01/17/2000
+No. Players: 2 - 16 
+
+Map: mgibcity.bsp
+Title: Gibcity
+Author: =DI=mighty gib!
+Size: 1,219KB
+Release Date: 02/11/2000
+No. Players: 2 - 16 
+
+Map: midtown.bsp
+Title: Midtown Madness
+Author: Skull 'N' Bones
+Size: 670KB
+Release Date: 03/04/1999
+No. Players: 4 - 12 
+
+Map: midtownx.bsp
+Title: Midtown Mayhem X
+Author: Skull 'N' Bones
+Size: 2,500KB
+Release Date: 03/04/1999
+No. Players: 6 - 20 
+
+Map: mildepot.bsp
+Title: Military Depot
+Author: Clan MIA (Derty)
+Size: 875KB
+Release Date: 07/08/1999
+No. Players: 2 - 20 
+
+Map: monastery.bsp
+Title: The Monastery
+Author: KongFoo
+Size: 394KB
+Release Date: 03/04/1999
+No. Players: 2 - 16 
+
+Map: motel.bsp
+Title: Motel
+Author: bobbins
+Size: 795KB
+Release Date: 08/03/1999
+No. Players: 2 - 20 
+
+Map: murder.bsp
+Title: Murder on tha Rooftops
+Author: FiReWaLKeR[TDm]
+Size: 1,190KB
+Release Date: 06/09/1999
+No. Players: 2 - 20 
+
+Map: museum.bsp
+Title: Musee de Quake at Night
+Author: Shmitz
+Size: 673KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: mxcity.bsp
+Title: Malax City 2083 8:34
+Author: [tBd] NRGizeR
+Size: 744KB
+Release Date: 08/23/1999
+No. Players: 2 - 20 
+
+Map: mxdowntown.bsp
+Title: Malax City Downtown
+Author: [tBd] NRGizeR
+Size: 1,053KB
+Release Date: 09/08/1999
+No. Players: 2 - 20 
+
+Map: mxmines.bsp
+Title: Malax Mines
+Author: [tBd] NRGizeR
+Size: 1,547KB
+Release Date: 09/08/1999
+No. Players: 2 - 20 
+
+Map: nakatomi.bsp
+Title: Nakatomi Tower, floor 30
+Author: Shadowfire
+Size: 2,066KB
+Release Date: 09/08/1999
+No. Players: 2 - 20 
+
+Map: neighborhood.bsp
+Title: Neighborhood
+Author: JFL
+Size: 568KB
+Release Date: 08/17/1999
+No. Players: 2 - 20 
+
+Map: night_r.bsp
+Title: Night Raid
+Author: the_HUNTER
+Size: 450KB
+Release Date: 03/04/1999
+No. Players: 2 - 12 
+
+Map: nobeer.bsp
+Title: The Pub with No Beer
+Author: WetWired
+Size: 1,736KB
+Release Date: 12/19/1999
+No. Players: 2 - 12 
+
+Map: office3.bsp
+Title: A Night in Hong Kong
+Author: Sam Thompson
+Size: 1,100KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: omd_map1.bsp
+Title: Mantidoba's Play Ground
+Author: Mantidoba
+Size: 895KB
+Release Date: 07/08/1999
+No. Players: 2 - 20 
+
+Map: p1_lightbeam.bsp
+Title: Lightbeam
+Author: Tristan
+Size: 1,100KB
+Release Date: 04/23/1999
+No. Players: 2 - 20 
+
+Map: pagoda.bsp
+Title: Pagoda
+Author: Adam "SolarFlux" Kopcinski
+Size: 1,065KB
+Release Date: 6/02/2000
+No. Players: 2 - 10 
+
+Map: paradise.bsp
+Title: Fraggin 'n Laggin in Paradise City
+Author: Pacman
+Size: 2,216KB
+Release Date: 12/13/1999
+No. Players: 2 - 16 
+
+Map: parkgarage.bsp
+Title: Parking Garage
+Author: Unknown
+Size: 581KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: passin.bsp
+Title: Just passin' through
+Author: FiReWaLKeR
+Size: 1,682KB
+Release Date: 12/13/1999
+No. Players: 2 - 18 
+
+Map: pc.bsp
+Title: Population Center
+Author: NaZu
+Size: 1,202KB
+Release Date: 01/24/2000
+No. Players: 2 - 18 
+
+Map: pier.bsp
+Title: London Pier
+Author: oSiRiS
+Size: 1,214KB
+Release Date: 12/15/1999
+No. Players: 2 - 18 
+
+Map: pier2.bsp
+Title: London Pier 2
+Author: oSiRiS
+Size: 1,381KB
+Release Date: 06/02/2000
+No. Players: 2 - 18 
+
+Map: police.bsp
+Title: Community Police Station
+Author: Brett Wilcock
+Size: 1,200KB
+Release Date: 03/04/1999
+No. Players: 2 - 14 
+
+Map: prison76.bsp
+Title: Prison 76
+Author: Sam Thompson
+Size: 1,400KB
+Release Date: 03/14/1999
+No. Players: 2 - 20 
+
+Map: punwar.bsp
+Title: Punisher's Warehouse
+Author: Punisher
+Size: 458KB
+Release Date: 03/04/1999
+No. Players: 2 - 8 
+
+Map: quittin.bsp
+Title: It's quittin' time!!
+Author: Skull 'N' Bones
+Size: 1,000KB
+Release Date: 03/04/1999
+No. Players: 4 - 12 
+
+Map: rexro.bsp
+Title: Klose Team Kombat
+Author: Xinul
+Size: 395KB
+Release Date: 01/11/2000
+No. Players: 4 - 14 
+
+Map: rhcity1.bsp
+Title: Rockheim Downtown: I'm gonna get you sucka!
+Author: Stefan Giesen (Igor[Rock])
+Size: 770KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: rhcity2.bsp
+Title: Rockheim City: High Noon
+Author: Stefan Giesen (Igor[Rock])
+Size: 968KB
+Release Date: 06/03/1999
+No. Players: 2 - 20 
+
+Map: rhcity3.bsp
+Title: Rockheim Financial District
+Author: Stefan Giesen (Igor[Rock])
+Size: 1,213KB
+Release Date: 05/13/2000
+No. Players: 2 - 20 
+
+Map: rhstation.bsp
+Title: Tatort: Rockheim Station at 3:35
+Author: Stefan Giesen (Igor[Rock])
+Size: 450KB
+Release Date: 03/04/1999
+No. Players: 2 - 14 
+
+Map: riot2.bsp
+Title: Riot2: Final Fajt
+Author: Ellusion
+Size: 2,683KB
+Release Date: 09/25/1999
+No. Players: 6 - 12 
+
+Map: riotx.bsp
+Title: Jingle Balls Special
+Author: Ellusion
+Size: 1,879KB
+Release Date: 12/22/1999
+No. Players: 4 - 12 
+
+Map: river.bsp
+Title: The River Battle
+Author: Regulator
+Size: 1,006KB
+Release Date: 01/11/2000
+No. Players: 2 - 10 
+
+Map: river.bsp
+Title: The River Battle
+Author: Regulator
+Size: 1,006KB
+Release Date: 01/11/2000
+No. Players: 2 - 10 
+
+Map: ruins.bsp
+Title: Ruins
+Author: Runitai
+Size: 378KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: ruins2.bsp
+Title: Ghost Town: 2053
+Author: Runitai
+Size: 606KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: ruins3.bsp
+Title: Ghost Town: 2053.2
+Author: Runitai
+Size: 647KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: saddam.bsp
+Title: Saddams Last Battle
+Author: Ruskprick
+Size: 1,400KB
+Release Date: 05/08/1999
+No. Players: 2 - 20 
+
+Map: seavill.bsp
+Title: Village by the Sea
+Author: Tipper B. Squakin'
+Size: 1,137KB
+Release Date: 02/13/2000
+No. Players: 2 - 16 
+
+Map: seweratz.bsp
+Title: Sewer Ratz
+Author: Croxly
+Size: 441KB
+Release Date: 09/08/1999
+No. Players: 2 - 20 
+
+Map: skyplay.bsp
+Title: Skyplay
+Author: Regulator
+Size: 609KB
+Release Date: 09/08/1999
+No. Players: 2 - 20 
+
+Map: skytower.bsp
+Title: Rockheim: Skytower!
+Author: Stefan Giesen (Igor[Rock])
+Size: 1,410KB
+Release Date: 04/25/2000
+No. Players: 2 - 20 
+
+Map: sludge1.bsp
+Title: Sludge Inc.
+Author: Adam Quigley
+Size: 384KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: slumcity.bsp
+Title: Slum City
+Author: peep^
+Size: 772KB
+Release Date: 09/08/1999
+No. Players: 2 - 20 
+
+Map: snakesmap.bsp
+Title: Snake's Urban map
+Author: __SolidSnake
+Size: 468KB
+Release Date: 09/16/1999
+No. Players: 2 - 20 
+
+Map: soho.bsp
+Title: SOHO
+Author: MexicanRadio
+Size: 945KB
+Release Date: 03/04/1999
+No. Players: 2 - 18 
+
+Map: soviet.bsp
+Title: Soviet Silo
+Author: Gary W (KongFoo)
+Size: 1,371KB
+Release Date: 06/02/2000
+No. Players: 2 - 18 
+
+Map: storehouse.bsp
+Title: Storehouse
+Author: JamesClonk
+Size: 1,018KB
+Release Date: 08/13/1999
+No. Players: 2 - 20 
+
+Map: submarine.bsp
+Title: Action Submarine
+Author: KB
+Size: 953KB
+Release Date: 03/04/1999
+No. Players: 2 - 10 
+
+Map: subtransit.bsp
+Title: Terror on the transit network
+Author: [Ka] DeRtStA
+Size: 1,999KB
+Release Date: 01/20/2000
+No. Players: 2 - 10 
+
+Map: subtransit2.bsp
+Title: A New transit network
+Author: [Ka] DeRtStA
+Size: 1,616KB
+Release Date: 03/23/2000
+No. Players: 2 - 10 
+
+Map: subway.bsp
+Title: Subway Sabotage
+Author: T.T.I.
+Size: 944KB
+Release Date: 03/04/1999
+No. Players: 2 - 12 
+
+Map: subway2.bsp
+Title: Subway Sabotage v2
+Author: T.T.I.
+Size: 1,000KB
+Release Date: 03/04/1999
+No. Players: 2 - 12 
+
+Map: subway99.bsp
+Title: Subway Sabotage: 1999
+Author: T.T.I.
+Size: 1,200KB
+Release Date: 04/23/1999
+No. Players: 2 - 12 
+
+Map: teacher.bsp
+Title: Teacher: When I Killed the Teacher
+Author: Ruckprick
+Size: 2,744KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: teamdepo.bsp
+Title: Military Supply Depot
+Author: Strag
+Size: 1,300KB
+Release Date: 05/08/1999
+No. Players: 2 - 20 
+
+Map: teamjungle.bsp
+Title: Teamin' in da Jungle
+Author: Timm Stokke
+Size: 736KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: temple.bsp
+Title: The Temple of the Star Stone
+Author: Squirrel
+Size: 457KB
+Release Date: 09/16/1999
+No. Players: 2 - 20 
+
+Map: temple2.bsp
+Title: Temple in the Blue Rocky Mountain
+Author: [acid]takebo
+Size: 989KB
+Release Date: 12/19/1999
+No. Players: 2 - 18 
+
+Map: tension1.bsp
+Title: Downtown Tension
+Author: T.T.I.
+Size: 1,333KB
+Release Date: 12/19/1999
+No. Players: 2 - 14 
+
+Map: tequila.bsp
+Title: Tequila Sunrise
+Author: WetWired
+Size: 2,004KB
+Release Date: 12/27/1999
+No. Players: 2 - 12 
+
+Map: theist.bsp
+Title: BankHeist
+Author: SteelHORN
+Size: 2,090KB
+Release Date: 08/07/1999
+No. Players: 2 - 20 
+
+Map: tokyo.bsp
+Title: Little Tokyo Showdown
+Author: Scuzzy
+Size: 679KB
+Release Date: 03/15/1999
+No. Players: 2 - 20 
+
+Map: toxin.bsp
+Title: Toxin Refinery
+Author: Pierre Lemoine
+Size: 1,582KB
+Release Date: 03/04/1999
+No. Players: 2 - 20 
+
+Map: tq2gtd1.bsp
+Title: Rockheim: Drugwars!
+Author: Stefan Giesen (Igor[Rock])
+Size: 2,282KB
+Release Date: 03/25/1999
+No. Players: 2 - 20 
+
+Map: trains.bsp
+Title: Dangerous trainspotting
+Author: Shadowfire
+Size: 1,226KB
+Release Date: 09/08/1999
+No. Players: 2 - 20 
+
+Map: urban.bsp
+Title: Action in the City
+Author: Gerbil!
+Size: 727KB
+Release Date: 03/04/1999
+No. Players: 2 - 16 
+
+Map: urban2.bsp
+Title: Urban2
+Author: Gerbil!
+Size: 1,400KB
+Release Date: 03/04/1999
+No. Players: 2 - 16 
+
+Map: urban3.bsp
+Title: Urban3
+Author: Gerbil!
+Size: 970KB
+Release Date: 03/04/1999
+No. Players: 2 - 16 
+
+Map: urban4.zip
+Title: Urban4
+Author: Gerbil!
+Size: 739KB
+Release Date: 12/13/1999
+No. Players: 2 - 16 
+
+Map: vertigo.bsp
+Title: Vertigo
+Author: KaRRiLLioN
+Size: 3,200KB
+Release Date: 04/29/1999
+No. Players: 2 - 20 
+
+Map: village.bsp
+Title: Village
+Author: Zotud
+Size: 1,040KB
+Release Date: 07/08/1999
+No. Players: 2 - 20 
+
+Map: village2.bsp
+Title: Village 2
+Author: Zotud
+Size: 1,668KB
+Release Date: 08/23/1999
+No. Players: 2 - 20 
+
+Map: ware.bsp
+Title: Warehouse Scraps
+Author: bobbins
+Size: 602KB
+Release Date: 09/25/1999
+No. Players: 2 - 6 
+
+Map: warehouse.bsp
+Title: Enter the Warehouse
+Author: shutxdown
+Size: 351KB
+Release Date: 09/08/1999
+No. Players: 2 - 4 
+
+Map: wargroun.bsp
+Title: GruuVe's Warground
+Author: GruuVe
+Size: 232KB
+Release Date: 04/15/1999
+No. Players: 2 - 12 
+
+Map: winter.bsp
+Title: Fragging 'n Lagging in a Winter Wonderland
+Author: PACMAN[TECH]
+Size: 1,230KB
+Release Date: 07/08/1999
+No. Players: 2 - 16 
+
+Map: xmas.bsp
+Title: Merry Xmess
+Author: Shadowfire
+Size: 790KB
+Release Date: 12/19/1999
+No. Players: 2 - 4 
+
+
+  For more information, visit:  http://aqmd.action-web.net/
+

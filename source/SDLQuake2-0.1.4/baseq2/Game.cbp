@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Game" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../../../game" prefix_auto="1" extension_auto="1" />
+				<Option object_output="../obj/Debug" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="SDL" />
+					<Add library="m" />
+					<Add library="z" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="../../../game" imp_lib="$(TARGET_OUTPUT_DIR)$(TARGET_OUTPUT_BASENAME).a" def_file="$(TARGET_OUTPUT_DIR)$(TARGET_OUTPUT_BASENAME).def" prefix_auto="1" extension_auto="1" />
+				<Option object_output="../obj/Release" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option projectCompilerOptionsRelation="2" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fPIC" />
+			<Add directory="../../baseq2" />
+			<Add directory="../../sdlquake2-0.1.4" />
+		</Compiler>
+		<Linker>
+			<Add library="SDL" />
+			<Add library="z" />
+			<Add library="dl" />
+		</Linker>
+		<Unit filename="../cmd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cmodel.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../common.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../crc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../cvar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../files.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../glob.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../md4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../mersennetwister.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../net_chan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../net_udp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../pmove.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../q2ded.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../q_shared.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../q_shlinux.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../redblack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_ccmds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_ents.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_init.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_send.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_user.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sv_world.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../sys_linux.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
